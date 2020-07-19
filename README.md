@@ -1,5 +1,6 @@
-<h1 align="center"> :rocket: Hi, I'm Felipe :rocket: </h1>
+<h1 align="center"> :rocket: Hi, I'm Felipe </h1>
 
+<img src=""
 ![line](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
 
 <p align="center">
@@ -12,22 +13,22 @@
   </a>
   
   <a href="mailto:alencar.dev@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-1E71C5?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com">
   </a>
 </p>
 
-## ⚡ Who Am I?
- I'm a full stack web developer enthusiast of design UI/UX and a junior computer science student.
+### ⚡ Who Am I?
+I'm a full stack web developer enthusiast of design UI/UX and a junior computer science student.
 
 
-## 💻 Specialities
+### 💻 Specialities
 
 - Google PageSpeed Insights +90 avaliation in web development
 - Responsive, accessive and performatic implementation
 - Web/UI/UX design using Adobe CC softwares and Figma
 - CI/CD config for web applications at local & cloud environments
 
-## 🔭 Skills
+### 🔭 Skills
 
 - HTML | CSS | JS
 - Angular 6+
