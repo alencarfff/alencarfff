@@ -20,14 +20,14 @@
 I'm a full stack web developer enthusiast of design UI/UX and a junior computer science student.
 
 
-### 💻 Specialities
+### 💻 Specialties
 
 - Google PageSpeed Insights +90 avaliation in web development
 - Responsive, accessive and performatic implementation
 - Web/UI/UX design using Adobe CC softwares and Figma
 - CI/CD config for web applications at local & cloud environments
 
-### 🔭 Skills
+### 🔭 Main Skills
 
 - HTML | CSS | JS
 - Angular 6+
