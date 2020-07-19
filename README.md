@@ -1,8 +1,6 @@
-<h1 align="center"> :rocket: Hi, I'm Felipe </h1>
+<h1 align="center"> :rocket: Hi, I'm Felipe :rocket: </h1>
 
-<div align="center">
-  ![line](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
-</div>
+![line](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alencar-dev/">
@@ -13,8 +11,9 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
   </a>
   
-  [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com)](mailto:alencar.dev@outlook.com)
-
+  <a href="mailto:alencar.dev@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com">
+  </a>
 </p>
 
 ## ⚡ Who Am I?
