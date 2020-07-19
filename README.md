@@ -20,7 +20,7 @@
 I'm a full stack web developer enthusiast of design UI/UX and a junior computer science student.
 
 
-### 💻 Specialties
+### 💻 Specialities
 
 - Google PageSpeed Insights +90 avaliation in web development
 - Responsive, accessive and performatic implementation
