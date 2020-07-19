@@ -11,13 +11,9 @@
   <a href="mailto:alencar.development@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
   </a>
-
-  <a href="mailto:alencar.development@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
-  </a>
   
   <a href="mailto:alencar.dev@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-white?style=flat-square&logo=Outlook&logoColor=blue&link=mailto:alencar.dev@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com">
   </a>
 </p>
 
