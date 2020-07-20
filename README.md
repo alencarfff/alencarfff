@@ -14,10 +14,6 @@
   <a href="mailto:alencar.dev@outlook.com">
     <img src="https://img.shields.io/badge/-Outlook-1E71C5?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com">
   </a>
-
-  <a href="https://discord.com/channels/@me/582292054282076216">
-    <img src="https://img.shields.io/badge/-Discord-6A7EC2?style=flat-square&logo=discord&logoColor=ffffff&link=https://discord.com/channels/@me/582292054282076216>
-  </a>
 </p>
 
 ### ⚡ Who Am I?
