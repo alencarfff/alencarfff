@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/-Outlook-1E71C5?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alencar.dev@outlook.com">
   </a>
 
-  <a href="https://discord.com/users/582292054282076216">
-    <img src="https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2">
+  <a href="https://discord.com/channels/@me/582292054282076216">
+    <img src="https://img.shields.io/discord/582292054282076216.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2">
   </a>
 </p>
 
