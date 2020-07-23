@@ -25,6 +25,7 @@ I'm a full stack web developer enthusiast of design UI/UX and a junior computer 
 - Responsive, accessive and performatic implementation
 - Web/UI/UX design using Adobe CC softwares and Figma
 - CI/CD config for web applications at local & cloud environments
+- HTML-CSS-JS | Angular 6+ | Spring | Docker
 
 ### ⭐ Technologies
 
@@ -67,9 +68,4 @@ I'm a full stack web developer enthusiast of design UI/UX and a junior computer 
 ![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
-
-- HTML | CSS | JS
-- Angular 6+
-- Spring boot
-- Docker
 
