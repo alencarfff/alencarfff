@@ -5,7 +5,6 @@ I'm a full stack web developer enthusiast of design UI/UX and a junior computer 
 
 ### ★ Specialities
 - Google PageSpeed Insights +90 avaliation in web development
-- Responsive, accessive and performatic functional systems
 - Web/UI/UX design using Adobe CC softwares and Figma
 - CI/CD config for web applications at local & cloud environments
 - ReactJS | Flask | MySQL | Docker
