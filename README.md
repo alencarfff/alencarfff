@@ -12,10 +12,9 @@ I'm a full stack web developer enthusiast of design UI/UX and a junior computer 
 ### ★ Other Technologies
 Angular 6+, Spring, Jest, Storybook, Jenkins, Git
 
+#### For more info, visit my <a href="https://www.linkedin.com/in/alencar-dev/">LinkedIn</a>.
+
 <p> 
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=alencarfff&show_icons=true&layout=compact&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencarfff&show_icons=true&layout=compact&theme=radical" />
 </p>
-
-
-#### For more info, visit my <a href="https://www.linkedin.com/in/alencar-dev/">LinkedIn</a>.
